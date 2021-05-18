@@ -1,0 +1,14 @@
+com/apptourism/MainActivity.java
+ com.apptourism.MainActivity
+com/apptourism/BuildConfig.java
+ com.apptourism.BuildConfig
+com/apptourism/ReactNativeFlipper.java
+ com.apptourism.ReactNativeFlipper
+ com.apptourism.ReactNativeFlipper$1
+ com.apptourism.ReactNativeFlipper$2
+ com.apptourism.ReactNativeFlipper$2$1
+com/apptourism/MainApplication.java
+ com.apptourism.MainApplication
+ com.apptourism.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
